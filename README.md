@@ -4,7 +4,7 @@ This program is a refactor of the GIPHY search code I did previously. This refac
 
 ## Features
 
-This program still contains the ability to click a button and get a random gif using Giphy's API. It also has a search bar that allows a user to search for gifs and get results from Giphy.
+This program contains the ability to click a button and get a random gif using Giphy's API. It also has a search bar that allows a user to search for gifs and get results from Giphy.
 
 ## Author
 
